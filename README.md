@@ -1,2 +1,2 @@
 # Restaurant-Menu
-A restaurant menu website project coded with HTML, CSS AND JavaScript.
+A restaurant menu website project coded with HTML, CSS and JavaScript.
